@@ -10,7 +10,7 @@ f2py -c circumference.f -m circumference`<br>
 Run with:
 
 ```
-python2 main.py`<br>
+python2 main.py
 ```
 
 <h1>The purpose of this:</h1>
